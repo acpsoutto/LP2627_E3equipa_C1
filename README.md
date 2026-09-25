@@ -1,7 +1,7 @@
 # LP2627_E3 - Achados e Perdidos
 
 ## Laboratório de Programação — 2026/2027
-**1º Ciclo em Engenharia Informática — Universidade Portucalense**
+**2º Ciclo - Licenciatura de Engenharia Informática — Universidade Portucalense**
 
 ## Descrição do Projeto
 
